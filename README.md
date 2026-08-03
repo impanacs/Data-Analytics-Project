@@ -1,0 +1,23 @@
+# Task 1 - Data Cleaning and Preprocessing
+
+## Objectives
+This project demonstrates data cleaning and preprocessing using Python and Pandas.
+
+## Tools Used
+- Python
+- Pandas
+
+## Steps Performed
+- Loaded the dataset using pandas.
+- Checked missing values.
+- Filled missing values using the mean.
+- Removed duplicate rows.
+- Standardized Gender values.
+- Standardized City names.
+- Standardized Join_Date format.
+- Saved the cleaned dataset.
+
+## Files
+- Employee_data.csv
+- cleaned_Employee_data.csv
+- task1.py
